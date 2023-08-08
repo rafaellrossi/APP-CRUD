@@ -1,9 +1,5 @@
 <h1>CRUD Mobile</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/static/v1?label=react&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
-  <img src="http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge"/>
-</p>
 
 > Status do Projeto: :heavy_check_mark: (concluido)
 
